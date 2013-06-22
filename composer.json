@@ -1,8 +1,8 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "rogerclotet/symfony-bootstrapped",
     "license": "MIT",
     "type": "project",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "The \"Symfony Bootstrapped Edition\" distribution",
     "autoload": {
         "psr-0": { "": "src/" }
     },
