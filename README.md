@@ -29,7 +29,7 @@ Composer will install Symfony and all its dependencies under the
 
 ### Download an Archive File
 
-To quickly test Symfony, you can also download an [archive][2] of the Standard
+To quickly test Symfony, you can also download an [archive][2] of the Bootstrapped
 Edition and unpack it somewhere under your web server root directory.
 
 If you downloaded an archive "without vendors", you also need to install all
