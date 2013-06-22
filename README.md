@@ -12,7 +12,7 @@ Edition:
 
 ### Use Composer (*recommended*)
 
-As Symfony uses [Composer][2] to manage its dependencies, the recommended way
+As Symfony uses [Composer][1] to manage its dependencies, the recommended way
 to create a new project is to use it.
 
 If you don't have Composer yet, download it following the instructions on
@@ -29,7 +29,7 @@ Composer will install Symfony and all its dependencies under the
 
 ### Download an Archive File
 
-To quickly test Symfony, you can also download an [archive][3] of the Standard
+To quickly test Symfony, you can also download an [archive][2] of the Standard
 Edition and unpack it somewhere under your web server root directory.
 
 If you downloaded an archive "without vendors", you also need to install all
@@ -37,3 +37,6 @@ the necessary dependencies. Download composer (see above) and run the
 following command:
 
     php composer.phar install
+
+[1]:  http://getcomposer.org/
+[2]:  https://github.com/rogerclotet/symfony-bootstrapped-edition/archive/master.zip
