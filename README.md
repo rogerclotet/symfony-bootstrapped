@@ -1,7 +1,7 @@
 Symfony Bootstrapped Edition
 ============================
 
-Modified version of the Symfony Standard edition with a few changes and initialisation,
+Modified version of the Symfony 2.3.1 Standard edition with a few changes and initialisation,
 mostly Twitter Bootstrap and less css.
 
 Installing the Symfony Bootstrapped Edition
